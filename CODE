@@ -16,8 +16,6 @@ extentions = {
     "setup": [".msi", ".exe"],
     "programs": [".py", ".c", ".cpp", ".php", ".C", ".CPP"],
     "design": [".xd", ".psd"]
-
-
 }
 
 
